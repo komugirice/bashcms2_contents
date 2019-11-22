@@ -1,6 +1,6 @@
 ---
 Keywords: ネギ
-Copyright: (C)2017 Ryuichi Ueda
+Copyright: (C)2017 Ryuichi Ueda.
 ---
 
 # ネギの惑星
